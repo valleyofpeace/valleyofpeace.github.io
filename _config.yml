@@ -100,3 +100,11 @@ exclude:
   - README.md
   - CNAME
 
+# jekyll-datapage_gen
+page_gen-dirs: true
+
+page_gen:
+  - data: 'gravesites'
+    template: 'gravesite'
+    name: 'grave_id'
+    title: 'grave_name'

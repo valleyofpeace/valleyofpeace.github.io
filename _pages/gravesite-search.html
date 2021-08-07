@@ -1,0 +1,14 @@
+---
+layout: page
+title: Gravesite search
+permalink: /gravesite-search/
+---
+
+<ul>
+  {% for gravesite in site.data.gravesites %}
+  <li>
+    <a href="/{{ gravesite.grave_id | datapage_url: 'gravesites' }}">
+    {{gravesite.grave_name}} ({{ gravesite.grave_dod | date: "%B %e, %Y" }})</a>
+  </li>
+  {% endfor %}
+</ul>
