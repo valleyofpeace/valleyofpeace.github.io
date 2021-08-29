@@ -5,6 +5,19 @@ layout: default
 
 <p>Name: {{ page.grave_name }}</p>
 <p>Date of Death: {{ page.grave_dod | date: "%B %e, %Y" }}</p>
-<p>Section: {{ page.grave_section }}</p>
-<p>Lot: {{ page.grave_row_lot }}</p>
+
+<p>
+    Section: {{ page.grave_section }}
+    {% if page.grave_section=='18' %}
+        (Ahl-al-Bayt)
+    {% elsif page.grave_section=='1' %}
+        (Valley of Peace)
+    {% endif %}
+</p>
+
+<p>
+    {% if page.grave_section=='18' %}Row{% elsif page.grave_section=='1' %}Lot{% endif %}:
+    {{ page.grave_row_lot }}
+</p>
+
 <p>Grave: {{ page.grave_number }}</p>
