@@ -2,10 +2,56 @@
 layout: default
 ---
 <h1>{{ page.grave_name }}</h1>
+<div id="grave-layout">
+    <div id="grave-photo">
+        <img src="/photos/{{ page.grave_id }}.JPG" onerror="this.onerror=null; this.src='/images/grave_photo_placeholder.png'" width="332" alt="Grave photo">
+    </div>
 
-<p>Name: {{ page.grave_name }}</p>
-<p>Date of Birth: {{ page.grave_dob | date: "%B %e, %Y" }}</p>
-<p>Date of Death: {{ page.grave_dod | date: "%B %e, %Y" }}</p>
-<p>Section: {{ page.grave_section }}</p>
-<p>Lot: {{ page.grave_row_lot }}</p>
-<p>Grave: {{ page.grave_number }}</p>
+    <div id="grave-info">
+        <p>Name: {{ page.grave_name }}</p>
+        <p>Date of Death: {{ page.grave_dod | date: "%B %e, %Y" }}</p>
+
+        <p>
+            Section: {{ page.grave_section }}
+            {% if page.grave_section=='18' %}
+                (Ahl-al-Bayt)
+            {% elsif page.grave_section=='1' %}
+                (Valley of Peace)
+            {% endif %}
+        </p>
+
+        <p>
+            {% if page.grave_section=='18' %}Row{% elsif page.grave_section=='1' %}Lot{% endif %}:
+            {{ page.grave_row_lot }}
+        </p>
+
+        <p>Grave: {{ page.grave_number }}</p>
+        <p id="fateha">As Salaam Alaa Ahle Quboor<br>Please recite Surah-e-Fateha.</p>
+    </div>
+</div>
+<a href="{{ site.baseurl }}/gravesite-search" class="new-search button">New search</a>
+
+<style>
+    #grave-layout {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    #grave-photo img {
+        border-radius: 25px;
+    }
+    #fateha {
+        text-align: center;
+        font-style: italic;
+        font-size: medium;
+    }
+    .new-search {
+        display: flex;
+        justify-content: center;
+    }
+    @media (max-width: 640px) {
+        #grave-layout {
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+</style>
