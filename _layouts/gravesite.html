@@ -3,6 +3,8 @@ layout: default
 ---
 <h1>{{ page.grave_name }}</h1>
 
+<img src="/photos/{{ page.grave_id }}.JPG" onerror="this.onerror=null; this.src='/images/grave_photo_placeholder.png'" width="332" alt="Grave photo">
+
 <p>Name: {{ page.grave_name }}</p>
 <p>Date of Death: {{ page.grave_dod | date: "%B %e, %Y" }}</p>
 
