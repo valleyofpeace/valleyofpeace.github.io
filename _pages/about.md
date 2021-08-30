@@ -3,7 +3,8 @@ layout: page
 title: About Us
 permalink: /about/
 ---
-
+![Bismillah](/images/bismillah-dad3.svg)
+<!-- ![Bismillah](/images/bismillah-dad3.jpeg) -->
 This website has been created to provide information regarding the *Wadi al-Salaam* (Valley of Peace) and *Ahl-al-Bayt* graveyard sections located at the Arlington/Elm Lawn  Cemetery, in the metropolitan Chicago area. 
 
 Please see the map below for directions.

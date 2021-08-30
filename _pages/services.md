@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-<div id="services_header_arabic">إِنَّا لِلّهِ وَإِنَّـا إِلَيْهِ رَاجِعُونَ</div>
+<div id="services-header-arabic">إِنَّا لِلَّٰهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ‎</div>
 
 ## Funeral Arrangements
 
