@@ -10,9 +10,11 @@ permalink: /services/
 
 For Funeral Services, please contact:
 
-| Center          | Contact Name       | Phone Number   |
-|-----------------|--------------------|----------------|
-| IEC Husaini     | Br. Vizarat Gowher | (630) 462-3673 |
-| MASOM           | Br. Mahmood Dhanji | (773) 914-2589 |
-| Baitul Ilm      | Br. Syed Yaqoot    | (847) 490-1387 |
-| Ahl-Ul Bait Ctr | Br. Sa'Ad Waheed   | (630) 709-5594 |
+| Center            | Contact               | Phone number   | Email                         |
+|-------------------|-----------------------|----------------|-------------------------------|
+| IEC Husaini       | Br. Vizarat Gowher    | (630) 347-3673 |                               |
+|                   | Br. Syed Abbas Kazmi  | (949) 370-5258 |                               |
+| MASOM             | Br. Mahmood Dhanji    | (773) 914-2589 |                               |
+| Baitul Ilm        | Br. Itret Husain Syed | (630) 935-2354 | funeral.service@baitulilm.org |
+| Ahlul Bait Center | Br. Sa'ad Waheed      | (630) 709-5594 |                               |
+|                   |                       | (773) 971-5633 | ahlulbaitcenter1@gmail.com    |
