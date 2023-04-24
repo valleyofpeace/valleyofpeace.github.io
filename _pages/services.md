@@ -6,6 +6,8 @@ permalink: /services/
 
 <div id="services-header-arabic">إِنَّا لِلَّٰهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ‎</div>
 
+Click [here to submit the **Initial Burial Information form**](/initialburialinfo/).
+
 ## Funeral Arrangements
 
 For Funeral Services, please contact:
