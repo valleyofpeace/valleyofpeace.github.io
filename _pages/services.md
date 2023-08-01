@@ -6,7 +6,17 @@ permalink: /services/
 
 <div id="services-header-arabic">إِنَّا لِلَّٰهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ‎</div>
 
-Click [here to submit the **Initial Burial Information form**](/initialburialinfo/).
+## Funeral Process Forms
+The Forms are needed in this priority order to start a Funeral Services process.
+
+1. [Release Form](/docs/releaseform.pdf)
+
+Family should fill this first, then print and Sign; then send a picture or scanned copy of this Filled/Signed Release Form to MUSLIM FUNERAL SERVICES via text message (815-549-9400) or send text message to any of funeral team; Or, this Release Form can also be emailed to info@MuslimFuneralServices.com
+
+2. Click [here to submit the **Initial Burial Information form**](/initialburialinfo/).
+
+
+3. Click [here to submit the **Death Certificate Form**](https://muslimfuneralservices.com/dc.html).
 
 ## Funeral Arrangements
 
