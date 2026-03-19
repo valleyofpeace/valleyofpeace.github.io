@@ -89,219 +89,310 @@ grave_id,grave_name,grave_dod,grave_section,grave_row_lot,grave_number
 88,Syed Mohammad Jafar,2004-04-29,18,9,18
 89,Nawab Jaffer Sultan,2004-06-16,18,9,19
 90,Syeda A. Mirza (Parveen),2004-06-24,18,9,20
-91,Syed Zahid Ali,2004-07-06,18,10,1
-92,Syed Atif Sibtain,2004-07-13,18,10,2
-93,M. Ibrahim Khulmi,2004-08-03,18,10,3
-94,Zehra Ali Unnisa,2004-10-11,18,10,4
-95,Naseem Zehra (Zahen),2004-10-11,18,10,5
-96,Syed Abid Raza Rizvi,2004-10-14,18,10,6
-97,Ahmad Mahkhou,2005-01-15,18,10,7
-98,Noor Jahan Khan,2005-03-12,18,10,8
-99,Mehdi Ali Mirza,2005-10-21,18,10,9
-100,Fazilat Lakhani,2005-12-06,18,10,10
-101,Khursheed Razvi,2006-01-22,18,10,11
-102,Saeeda Bano,2006-07-14,18,10,12
-103,Rashid Ali Khan,2006-10-13,18,10,13
-104,Syed Afsar Nawab,2006-11-03,18,10,14
-105,Dildar Fatima,2007-02-28,18,10,15
-106,Syed Ali Hussain Rizvi,2007-06-08,18,10,16
-107,Kumail Husain,2007-09-09,18,11,1
-108,Zohair Husain,2007-09-09,18,11,2
-109,Ali Hikamat Jafri,2007-09-25,18,11,3
-110,Syed Mohammed Hamid Jafri,2007-10-14,18,11,4
-111,Syeda Khurshid Zehra Begum,2007-12-16,18,11,5
-112,Mirza Muhammad Naqi,2008-01-15,18,11,6
-113,Muhammad Ali Sherazee,2008-02-23,18,11,7
-114,Syed Yousuf Hussain,2008-04-24,18,11,8
-115,Abidunissa Begum,2008-07-27,18,11,9
-116,Saiyada Tafseer Zaidi,2008-09-07,18,11,10
-117,Syed Asim Abbas Rizvi,2008-11-17,18,11,11
-118,Asadolah Khansanami,2008-12-12,18,11,12
-119,Hapah Ahmad,2005-11-18,18,12,1A
-120,Marouf,2005-11-18,18,12,1B
-121,Zahran Ahmad,2006-07-11,18,12,2A
-122,Zehra Fatima Khan,2006-02-25,18,12,2B
-123,Hussien Ahmad,2007-06-07,18,12,3A
-124,Mubarak,2006-11-07,18,12,3B
-125,Abbas Reza Safdary,2007-08-18,18,12,4A
-126,Noor Ali Al-Humdani,2008-05-23,18,12,4B
-127,Alisha Raza Kazmi,2009-11-25,18,12,5A
-128,Zaeem Ali & Zubair Ali Maknajia,2008-07-19,18,12,5B
-129,Effat Kojoori,2009-10-31,18,12,5X
-130,Mohammad Ali Juma,2009-07-25,18,12,6
-131,Muzaffer Ali Khan,2009-07-13,18,12,7
-132,Sayeda Khurshid Jafri,2009-05-27,18,12,8
-133,Patricia Rizvi,2009-03-07,18,12,9
-134,Khofron Alsaadi,1998-01-01,18,13,1A
-135,Fatima Jafary,1997-10-28,18,13,1B
-136,Mona Saad,1998-06-27,18,13,2A
-137,Aimun H. Jafri,1999-02-10,18,13,2B
-138,Omar Majid Al Jewary,2000-07-24,18,13,3A
-139,Muhammed Al-Hechimi,2000-04-15,18,13,3B
-140,Mohammad,2002-03-25,18,13,4A
-141,Hassan Hani,2000-11-07,18,13,4B
-142,Mohammad Ashter Raza Zaidi,2002-07-11,18,13,5A
-143,Ali,2004-08-25,18,13,5B
-144,Rawa Razzaq,2004-01-08,18,13,6A
-145,Kulsum Fatima,2005-02-26,18,13,6B
-146,Ayat Al-Hamdani,2004-04-30,18,13,7A
-147,Aziz F. Khan,2005-04-21,18,13,7B
-148,Abbas,1990-09-05,18,14,1A
-149,Sakina Mehdi,1996-09-12,18,14,1B
-150,Sarah Faraj,1991-01-11,18,14,2A
-151,Fatema Alzurufi,1996-07-30,18,14,2B
-152,Mohammad Ghane,1991-02-18,18,14,3A
-153,Mohammad Dewji,1996-01-26,18,14,3B
-154,Mustafa AliKhan,1992-08-28,18,14,4A
-155,Zehra Moosvi,1994-02-14,18,14,4B
-156,M. Yestasheer Hussain,1994-01-14,18,14,5A
-157,Zaidi,1994-02-05,18,14,5B
-158,Abdullah A. Dashti,1989-05-31,18,15,1A
-159,Idris M. Marketwala,1984-01-28,18,15,1B
-160,Sibtaini Begum,1986-05-15,18,15,2
-161,Abbas,1990-01-12,18,15,3A
-162,Ali Asghar Brown,1990-07-20,18,15,3B
-163,Syeda Razvi,2008-12-30,18,16,1
-164,Ahmed Abbas,2009-01-16,18,16,2
-165,Moulana Mohammad Jalali Hussain,2020-11-21,18,17,1
-166,Syed Zainulabidin Naqi,2010-05-23,1,1,1
-167,Syed Nazar Husain Rizvi,2010-05-04,1,1,2
-168,Aziza A. Mohammad,2010-04-11,1,1,3
-169,Dabeer Kazmi,2010-01-26,1,1,4
-170,Mir Esmail Safavi,2009-12-26,1,1,5
-171,Zareen Ali,2009-12-06,1,1,6
-172,Anees Fatima Rizvi,2010-06-02,1,3,1
-173,Mirza Akhtar Hussain,2010-07-05,1,3,2
-174,Mah Sultan,2010-11-06,1,3,3
-175,Iffat Zehra Rizvi,2011-05-12,1,3,4
-176,Syed Azam Jafar,2012-09-03,1,3,5
-177,Syed Sarfaraz Imam,2012-09-11,1,3,6
-178,Khawaja Ammar Hussain,2011-11-05,1,4,1
-179,Sajjad Akbar,2011-11-14,1,4,2
-180,Masud Ali Sherazee,2013-02-27,1,4,3
-181,Mohammad Reza Sanati,2014-09-30,1,4,4
-182,Amne Mohammad Alame,2014-10-02,1,4,5
-183,Seyed M Ghazi,2015-01-14,1,4,6
-184,Firdews Aldakheel,2013-01-10,1,4,7
-185,Homayoundokt Nassaj Safavi,2013-07-23,1,4,8
-186,Fatima Sultan Ali,2015-04-13,1,4,9
-187,Syed Laique Abbas,2013-05-01,1,6,2
-188,Syeda Shahnaz Kazmi,2011-05-28,1,7,1
-189,Liaquat Unnisa Begum,2012-02-12,1,7,2
-190,Naz Fatima,2012-03-15,1,7,3
-191,Haj Seyfollah Nikpouri,2012-05-28,1,7,4
-192,Syed Jawwad Rizvi,2012-09-20,1,7,5
-193,Syed Amjad Ali Naqvi,2013-01-04,1,7,6
-194,Mohammed Ali Hyderi,2011-08-10,1,7,7
-195,Mir Ghulam Abid Talpur,2011-09-21,1,7,8
-196,Syed Ahmed Raza,2012-05-21,1,7,9
-197,Ali Asghar,2012-10-26,1,7,10
-198,Jasem Al-Najjar,2012-12-18,1,7,11
-199,Mohammed Liakat Ghatalah,2013-01-07,1,7,12
-200,Syed Riasat Rizvi,2015-06-05,1,8,1
-201,Malika Begum,2015-07-10,1,8,2
-202,Hasnain Raza Zaidi,2015-12-25,1,8,3
-203,Syed Irfan Hussain,2015-12-29,1,8,4
-204,Syed Wajid Ali,2016-03-28,1,8,5
-205,Tahira Begum,2016-05-24,1,8,6
-206,Khursheed Begum Ghatalah,2015-09-15,1,8,7
-207,Rubina Sultana,2015-10-28,1,8,8
-208,Qadeera Khatoon,2015-12-27,1,8,9
-209,Abrahim Mohsen Safavi,2016-03-29,1,8,10
-210,Jawed Khan,2016-07-16,1,8,11
-211,Maryam Lakhani,2016-09-22,1,8,12
-212,Seyed Hassan Maljaei Panahgahi,2013-11-06,1,9,1
-213,Syed Javed Hussain Zaidi,2013-12-04,1,9,2
-214,Ali Mousbah Alameh,2014-03-03,1,9,3
-215,Kulsoom Begum,2014-03-16,1,9,4
-216,Reamben Mukhi,2020-05-01,1,9,5
-217,Shakeel Haider,2020-04-23,1,9,7
-218,Syed Baqar Raza Zaidi,2021-04-03,1,9,8
-219,Najat Hussain Qasim,2020-04-21,1,9,12
-220,Sayeda Kulsoom Zehra Hasan,2013-08-18,1,11,1
-221,Syed Saleem Hussain Musvi,2013-08-24,1,11,2
-222,Ghulam Hassan Mohammad,2013-09-17,1,11,3
-223,Farideh Yashmi,2015-11-24,1,11,4
-224,Naseer Hasan Haidri,2016-09-30,1,11,5
-225,Syeda Mushir Fatima Noor Jehan Rizvi,2016-11-02,1,11,6
-226,Mohammad H. Attar Nasseri,2016-11-16,1,11,7
-227,Ali A. Erhaima,2016-12-02,1,11,8
-228,Ardeshir Motakef,2016-12-23,1,11,9
-229,Falak Ara,2017-01-31,1,11,10
-230,Mirza Sajjad Ahmed Abid,2017-03-07,1,11,11
-231,Syed Ali Hussain Razvi,2017-05-27,1,12,1
-232,Syed Muzamil Rizvi,2017-08-12,1,12,3
-233,Zarina Ahmed,2017-08-18,1,12,4
-234,Ahsan Jahan,2017-08-21,1,12,5
-235,Sajjad Ali Gowher,2020-01-27,1,12,6
-236,Hasan Ali Jafri,2017-10-21,1,12,7
-237,Jafri Begum,2017-11-28,1,12,8
-238,Anis Sultana,2018-04-20,1,12,9
-239,Shahida Begum,2018-10-22,1,12,10
-240,Syed Mehdi Raza,2018-10-20,1,12,11
-241,Mumtaz Hussain,2017-10-26,1,12,12
-242,Sadiq Ahmed Naqvi,2017-06-20,1,13,2
-243,Kaneez Zahra Shah,2017-09-14,1,13,3
-244,Amir Alsharifi,2017-09-26,1,13,4
-245,Itrat Husain Sayed,2017-10-04,1,13,5
-246,Rubina Iftikhar Wasim,2017-10-18,1,13,6
-247,Tahseen Fatima,2018-01-13,1,13,7
-248,Narjis Khatoon,2018-02-18,1,13,8
-249,Syed Ashfaq Hussain Shah,2019-10-27,1,13,9
-250,Marwan Hmadi,2018-06-25,1,13,10
-251,Bader Jahan,2018-09-03,1,13,11
-252,Gulamali Hasanali Girniwala,2018-10-16,1,13,12
-253,Nainava Abbas,2010-10-03,1,16,1A
-254,Hasan Ali Hussain,2013-04-22,1,16,1B
-255,Fatima Zaidi,2012-11-20,1,16,2A
-256,Sakina Zaidi,2012-11-20,1,16,2B
-257,Muhammad Naqvi,2013-08-28,1,16,3A
-258,Hadifah Dalal Jafary,2013-09-17,1,16,3B
-259,Armaan Rezaee,2014-02-18,1,16,4A
-260,Nawal Fatima Mirza,2016-03-16,1,16,4B
-261,Mina Rezaee,2017-01-20,1,16,5A
-262,Shabbar Abbas Bader,2017-01-01,1,16,5B
-263,Shahin Qasmi,2017-06-05,1,16,6A
-264,Syed Haider,2018-02-13,1,16,6B
-265,Irshad Ali,2018-10-26,1,17,1
-266,Zubair Elsaffar,2020-08-15,1,17,3
-267,Ali Bandi Begum,2020-06-10,1,17,4
-268,Syed Hasan Raza Zaidi,2018-12-05,1,17,5
-269,Syed Husain Nawab,2018-11-17,1,17,6
-270,Issam Farhat,2019-02-03,1,17,7
-271,Mohammed Al Ibraheemi,2020-08-23,1,17,8
-272,Sarvath Sultana,2020-10-09,1,17,9
-273,Heshmat Hasiri,2020-11-08,1,17,10
-274,Mohammad Ali Saad,2020-07-28,1,17,11
-275,Sikander Manjee,2018-12-26,1,17,12
-276,Syed Mojiz Husain,2019-08-11,1,18,2
-277,Akber Ali Jafferi,2021-06-27,1,18,3
-278,Mohammed Ali Jafferi,2020-02-17,1,18,4
-279,Mustafa Abbas,2019-09-06,1,18,5
-280,Nahid Khan,2019-04-26,1,18,6
-281,Abdul Ameer Kadhim,2019-11-04,1,18,7
-282,Mirza Farrokh Shirazee,2020-08-28,1,18,8
-283,Ali Abid Yawer,2021-07-19,1,18,9
-284,Mustafa Begum,2020-05-01,1,18,10
-285,Abdulbari A. Al Jabri,2020-10-01,1,18,11
-286,Syed Mumtaz Akhtar,2019-10-25,1,18,12
-287,Taqia Naqvi,2019-04-01,1,19,2
-288,Hazbar Khalaf,2021-03-29,1,19,4
-289,Ashrafunnisa Mamdani,2020-02-10,1,19,7
-290,Warka Jabbar,2021-03-29,1,19,8
-291,Syed Shamim Hyder Naqvi,2020-01-26,1,19,9
-292,Syed Amir Abbas Rizvi,2020-01-14,1,19,11
-293,Laila Rizvi,2020-01-15,1,19,12
-294,Rayyan Ali Hyder,2020-10-04,1,26,2
-295,Roshanali Chagpar,2020-12-02,1,26,4
-296,Suad Alwan,2020-11-12,1,26,5
-297,Syed Masroor Hasan,2020-11-09,1,26,6
-298,Khairunnisa Husain,2021-02-02,1,26,7
-299,Syed Sher Ali Rizvi,2021-04-24,1,26,8
-300,Maimoona Wasti,2021-06-10,1,26,9
-301,Syed Iqbal Ali,2021-04-24,1,26,12
-302,Rukhia Bai Sajanlal,2014-05-05,1,53,4
-303,Nargis Fatima,2014-05-06,1,64,6
-304,Seyed Ahmad Razaghi Shahpur,2014-05-22,1,65,1
-305,Noshiravan Amirshokoohi,2014-06-16,1,65,2
-306,Zahra Shirian,2019-04-16,1,65,7
+91,Shamim Sultan,2025-02-16,18,9,21
+92,Syed Zahid Ali,2004-07-06,18,10,1
+93,Syed Atif Sibtain,2004-07-13,18,10,2
+94,M. Ibrahim Khulmi,2004-08-03,18,10,3
+95,Zehra Ali Unnisa,2004-10-11,18,10,4
+96,Naseem Zehra (Zahen),2004-10-11,18,10,5
+97,Syed Abid Raza Rizvi,2004-10-14,18,10,6
+98,Ahmad Mahkhou,2005-01-15,18,10,7
+99,Noor Jahan Khan,2005-03-12,18,10,8
+100,Mehdi Ali Mirza,2005-10-21,18,10,9
+101,Fazilat Lakhani,2005-12-06,18,10,10
+102,Khursheed Razvi,2006-01-22,18,10,11
+103,Saeeda Bano,2006-07-14,18,10,12
+104,Rashid Ali Khan,2006-10-13,18,10,13
+105,Syed Afsar Nawab,2006-11-03,18,10,14
+106,Dildar Fatima,2007-02-28,18,10,15
+107,Syed Ali Hussain Rizvi,2007-06-08,18,10,16
+108,Kumail Husain,2007-09-09,18,11,1
+109,Zohair Husain,2007-09-09,18,11,2
+110,Ali Hikamat Jafri,2007-09-25,18,11,3
+111,Syed Mohammed Hamid Jafri,2007-10-14,18,11,4
+112,Syeda Khurshid Zehra Begum,2007-12-16,18,11,5
+113,Mirza Muhammad Naqi,2008-01-15,18,11,6
+114,Muhammad Ali Sherazee,2008-02-23,18,11,7
+115,Syed Yousuf Hussain,2008-04-24,18,11,8
+116,Abidunissa Begum,2008-07-27,18,11,9
+117,Saiyada Tafseer Zaidi,2008-09-07,18,11,10
+118,Syed Asim Abbas Rizvi,2008-11-17,18,11,11
+119,Asadolah Khansanami,2008-12-12,18,11,12
+120,Hapah Ahmad,2005-11-18,18,12,1A
+121,Marouf,2005-11-18,18,12,1B
+122,Zahran Ahmad,2006-07-11,18,12,2A
+123,Zehra Fatima Khan,2006-02-25,18,12,2B
+124,Hussien Ahmad,2007-06-07,18,12,3A
+125,Mubarak,2006-11-07,18,12,3B
+126,Abbas Reza Safdary,2007-08-18,18,12,4A
+127,Noor Ali Al-Humdani,2008-05-23,18,12,4B
+128,Alisha Raza Kazmi,2009-11-25,18,12,5A
+129,Zaeem Ali & Zubair Ali Maknajia,2008-07-19,18,12,5B
+130,Effat Kojoori,2009-10-31,18,12,5X
+131,Mohammad Ali Juma,2009-07-25,18,12,6
+132,Muzaffer Ali Khan,2009-07-13,18,12,7
+133,Sayeda Khurshid Jafri,2009-05-27,18,12,8
+134,Patricia Rizvi,2009-03-07,18,12,9
+135,Khofron Alsaadi,1998-01-01,18,13,1A
+136,Fatima Jafary,1997-10-28,18,13,1B
+137,Mona Saad,1998-06-27,18,13,2A
+138,Aimun H. Jafri,1999-02-10,18,13,2B
+139,Omar Majid Al Jewary,2000-07-24,18,13,3A
+140,Muhammed Al-Hechimi,2000-04-15,18,13,3B
+141,Mohammad,2002-03-25,18,13,4A
+142,Hassan Hani,2000-11-07,18,13,4B
+143,Mohammad Ashter Raza Zaidi,2002-07-11,18,13,5A
+144,Ali,2004-08-25,18,13,5B
+145,Rawa Razzaq,2004-01-08,18,13,6A
+146,Kulsum Fatima,2005-02-26,18,13,6B
+147,Ayat Al-Hamdani,2004-04-30,18,13,7A
+148,Aziz F. Khan,2005-04-21,18,13,7B
+149,Abbas,1990-09-05,18,14,1A
+150,Sakina Mehdi,1996-09-12,18,14,1B
+151,Sarah Faraj,1991-01-11,18,14,2A
+152,Fatema Alzurufi,1996-07-30,18,14,2B
+153,Mohammad Ghane,1991-02-18,18,14,3A
+154,Mohammad Dewji,1996-01-26,18,14,3B
+155,Mustafa AliKhan,1992-08-28,18,14,4A
+156,Zehra Moosvi,1994-02-14,18,14,4B
+157,M. Yestasheer Hussain,1994-01-14,18,14,5A
+158,Zaidi,1994-02-05,18,14,5B
+159,Abdullah A. Dashti,1989-05-31,18,15,1A
+160,Idris M. Marketwala,1984-01-28,18,15,1B
+161,Sibtaini Begum,1986-05-15,18,15,2
+162,Abbas,1990-01-12,18,15,3A
+163,Ali Asghar Brown,1990-07-20,18,15,3B
+164,Syeda Razvi,2008-12-30,18,16,1
+165,Ahmed Abbas,2009-01-16,18,16,2
+166,Moulana Mohammad Jalali Hussain,2020-11-21,18,17,1
+167,Syed Zainulabidin Naqi,2010-05-23,1,1,1
+168,Syed Nazar Husain Rizvi,2010-05-04,1,1,2
+169,Aziza A. Mohammad,2010-04-11,1,1,3
+170,Dabeer Kazmi,2010-01-26,1,1,4
+171,Mir Esmail Safavi,2009-12-26,1,1,5
+172,Zareen Ali,2009-12-06,1,1,6
+173,Anees Fatima Rizvi,2010-06-02,1,3,1
+174,Mirza Akhtar Hussain,2010-07-05,1,3,2
+175,Mah Sultan,2010-11-06,1,3,3
+176,Iffat Zehra Rizvi,2011-05-12,1,3,4
+177,Syed Azam Jafar,2012-09-03,1,3,5
+178,Syed Sarfaraz Imam,2012-09-11,1,3,6
+179,Khawaja Ammar Hussain,2011-11-05,1,4,1
+180,Sajjad Akbar,2011-11-14,1,4,2
+181,Masud Ali Sherazee,2013-02-27,1,4,3
+182,Mohammad Reza Sanati,2014-09-30,1,4,4
+183,Amne Mohammad Alame,2014-10-02,1,4,5
+184,Seyed M Ghazi,2015-01-14,1,4,6
+185,Firdews Aldakheel,2013-01-10,1,4,7
+186,Homayoundokt Nassaj Safavi,2013-07-23,1,4,8
+187,Fatima Sultan Ali,2015-04-13,1,4,9
+188,Nuzhat Akbar,2023-03-04,1,5,1
+189,Baby Khan,2025-03-28,1,6,1A
+190,Syed Laique Abbas,2013-05-01,1,6,2
+191,Syeda Shahnaz Kazmi,2011-05-28,1,7,1
+192,Liaquat Unnisa Begum,2012-02-12,1,7,2
+193,Naz Fatima,2012-03-15,1,7,3
+194,Haj Seyfollah Nikpouri,2012-05-28,1,7,4
+195,Syed Jawwad Rizvi,2012-09-20,1,7,5
+196,Syed Amjad Ali Naqvi,2013-01-04,1,7,6
+197,Mohammed Ali Hyderi,2011-08-10,1,7,7
+198,Mir Ghulam Abid Talpur,2011-09-21,1,7,8
+199,Syed Ahmed Raza,2012-05-21,1,7,9
+200,Ali Asghar,2012-10-26,1,7,10
+201,Jasem Al-Najjar,2012-12-18,1,7,11
+202,Mohammed Liakat Ghatalah,2013-01-07,1,7,12
+203,Syed Riasat Rizvi,2015-06-05,1,8,1
+204,Malika Begum,2015-07-10,1,8,2
+205,Hasnain Raza Zaidi,2015-12-25,1,8,3
+206,Syed Irfan Hussain,2015-12-29,1,8,4
+207,Syed Wajid Ali,2016-03-28,1,8,5
+208,Tahira Begum,2016-05-24,1,8,6
+209,Khursheed Begum Ghatalah,2015-09-15,1,8,7
+210,Rubina Sultana,2015-10-28,1,8,8
+211,Qadeera Khatoon,2015-12-27,1,8,9
+212,Abrahim Mohsen Safavi,2016-03-29,1,8,10
+213,Jawed Khan,2016-07-16,1,8,11
+214,Maryam Lakhani,2016-09-22,1,8,12
+215,Seyed Hassan Maljaei Panahgahi,2013-11-06,1,9,1
+216,Syed Javed Hussain Zaidi,2013-12-04,1,9,2
+217,Ali Mousbah Alameh,2014-03-03,1,9,3
+218,Kulsoom Begum,2014-03-16,1,9,4
+219,Reamben Mukhi,2020-05-01,1,9,5
+220,Syed Iqbal Raza Rizvi,2021-04-22,1,9,6
+221,Shakeel Haider,2020-04-23,1,9,7
+222,Syed Baqar Raza Zaidi,2021-04-03,1,9,8
+223,Jenna Alaina Khalife,2021-11-21,1,9,9
+224,Syed Razi Akhtar Zaidi,2024-05-24,1,9,10
+225,Maqsood Begum,2021-11-30,1,9,11
+226,Najat Hussain Qasim,2020-04-21,1,9,12
+227,Syed A Bukhari,2021-11-22,1,10,1
+228,Muhammad Sameer,2022-01-29,1,10,2
+229,Sayeda Kulsoom Zehra Hasan,2013-08-18,1,11,1
+230,Syed Saleem Hussain Musvi,2013-08-24,1,11,2
+231,Ghulam Hassan Mohammad,2013-09-17,1,11,3
+232,Farideh Yashmi,2015-11-24,1,11,4
+233,Naseer Hasan Haidri,2016-09-30,1,11,5
+234,Syeda Mushir Fatima Noor Jehan Rizvi,2016-11-02,1,11,6
+235,Mohammad H. Attar Nasseri,2016-11-16,1,11,7
+236,Ali A. Erhaima,2016-12-02,1,11,8
+237,Ardeshir Motakef,2016-12-23,1,11,9
+238,Falak Ara,2017-01-31,1,11,10
+239,Mirza Sajjad Ahmed Abid,2017-03-07,1,11,11
+240,Syed Ali Hussain Razvi,2017-05-27,1,12,1
+241,Syed Yawer Ahmed,2024-03-18,1,12,2
+242,Syed Muzamil Rizvi,2017-08-12,1,12,3
+243,Zarina Ahmed,2017-08-18,1,12,4
+244,Ahsan Jahan,2017-08-21,1,12,5
+245,Sajjad Ali Gowher,2020-01-27,1,12,6
+246,Hasan Ali Jafri,2017-10-21,1,12,7
+247,Jafri Begum,2017-11-28,1,12,8
+248,Anis Sultana,2018-04-20,1,12,9
+249,Shahida Begum,2018-10-22,1,12,10
+250,Syed Mehdi Raza,2018-10-20,1,12,11
+251,Mumtaz Hussain,2017-10-26,1,12,12
+252,Tayaba Begum,2023-12-22,1,13,1
+253,Sadiq Ahmed Naqvi,2017-06-20,1,13,2
+254,Kaneez Zahra Shah,2017-09-14,1,13,3
+255,Amir Alsharifi,2017-09-26,1,13,4
+256,Itrat Husain Sayed,2017-10-04,1,13,5
+257,Rubina Iftikhar Wasim,2017-10-18,1,13,6
+258,Tahseen Fatima,2018-01-13,1,13,7
+259,Narjis Khatoon,2018-02-18,1,13,8
+260,Syed Ashfaq Hussain Shah,2019-10-27,1,13,9
+261,Marwan Hmadi,2018-06-25,1,13,10
+262,Bader Jahan,2018-09-03,1,13,11
+263,Gulamali Hasanali Girniwala,2018-10-16,1,13,12
+264,Wasim Saeed,2024-01-23,1,14,1
+265,Ridha Abdelhusein,2022-10-24,1,15,1
+266,Rasool Ishaq Ali,2022-10-21,1,15,2
+267,Dheyaa Alkinani,2024-06-13,1,15,3
+268,Baby Mariam Altameemi,2025-11-13,1,15,4A
+269,Baby Zayn al-Abidin Essa Kazmi,2025-11-14,1,15,4B
+270,Ruqaiya,2023-10-02,1,15,5
+271,Syed Safdar Zaidi,2023-10-08,1,15,6
+272,Muneera Abdullah,2023-12-19,1,15,7
+273,Sam Kuraishi,2024-03-10,1,15,8
+274,Raad Al-Obaidi,2024-04-06,1,15,9
+275,Saad Mahdi,2024-08-16,1,15,10
+276,Nainava Abbas,2010-10-03,1,16,1A
+277,Hasan Ali Hussain,2013-04-22,1,16,1B
+278,Fatima Zaidi,2012-11-20,1,16,2A
+279,Sakina Zaidi,2012-11-20,1,16,2B
+280,Muhammad Naqvi,2013-08-28,1,16,3A
+281,Hadifah Dalal Jafary,2013-09-17,1,16,3B
+282,Armaan Rezaee,2014-02-18,1,16,4A
+283,Nawal Fatima Mirza,2016-03-16,1,16,4B
+284,Mina Rezaee,2017-01-20,1,16,5A
+285,Shabbar Abbas Bader,2017-01-01,1,16,5B
+286,Shahin Qasmi,2017-06-05,1,16,6A
+287,Syed Haider,2018-02-13,1,16,6B
+288,Irshad Ali,2018-10-26,1,17,1
+289,Amira F. Jasim,2020-07-22,1,17,2
+290,Zubair Elsaffar,2020-08-15,1,17,3
+291,Ali Bandi Begum,2020-06-10,1,17,4
+292,Syed Hasan Raza Zaidi,2018-12-04,1,17,5
+293,Syed Husain Nawab,2018-11-17,1,17,6
+294,Issam Farhat,2019-02-03,1,17,7
+295,Mohammed Al Ibraheemi,2020-08-23,1,17,8
+296,Sarvath Sultana,2020-10-09,1,17,9
+297,Heshmat Hasiri,2020-11-04,1,17,10
+298,Mohammad Ali Saad,2020-07-28,1,17,11
+299,Sikander Manjee,2018-12-26,1,17,12
+300,Syed Mojiz Husain,2019-08-11,1,18,2
+301,Akber Ali Jafferi,2021-06-27,1,18,3
+302,Mohammed Ali Jafferi,2020-02-17,1,18,4
+303,Mustafa Abbas,2019-09-06,1,18,5
+304,Nahid Khan,2019-04-26,1,18,6
+305,Abdul Ameer Kadhim,2019-11-04,1,18,7
+306,Mirza Farrokh Shirazee,2020-08-28,1,18,8
+307,Ali Abid Yawer,2021-07-19,1,18,9
+308,Mustafa Begum,2020-05-01,1,18,10
+309,Abdulbari A. Al Jabri,2020-10-01,1,18,11
+310,Syed Mumtaz Akhtar,2019-10-25,1,18,12
+311,Taqia Naqvi,2019-04-01,1,19,2
+312,Hazbar Khalaf,2021-03-29,1,19,4
+313,Ashrafunnisa Mamdani,2020-02-10,1,19,7
+314,Warka Jabbar,2021-03-29,1,19,8
+315,Syed Shamim Hyder Naqvi,2020-01-26,1,19,9
+316,Syed Amir Abbas Rizvi,2020-01-14,1,19,11
+317,Laila Rizvi,2020-01-15,1,19,12
+318,Hasan Afzal Jafri,2022-10-17,1,20,1
+319,Baqar Raza Zaidi,2023-01-01,1,20,2
+320,Syed Matloob Hasan,2023-06-04,1,20,3
+321,Syed Najmul Hasan Kazmi,2023-08-21,1,20,5
+322,Ahmad Golzar,2024-07-27,1,20,6
+323,Satwath Ali,2023-12-17,1,20,8
+324,Qamar Abbas,2024-04-12,1,20,9
+325,Shahed Shawn Hassan Khan,2024-08-03,1,20,11
+326,Syed Kazim Akhtar,2024-09-11,1,20,12
+327,Sakineh Zebhi Massibeigi,2024-08-21,1,21,1
+328,Syed Tasawwur Hussain Tirmazi,2024-09-22,1,21,3
+329,Amal Abdulsada,2024-10-27,1,21,4
+330,Syed Mustafa Rizvi,2024-12-30,1,21,5
+331,Hadi Almaarafawi,2025-03-05,1,21,6
+332,Khooshbaush Fatema,2024-09-09,1,21,7
+333,Husnain Fatima Zaidi,2024-09-25,1,21,8
+334,Roohi Shahid,2024-12-24,1,21,9
+335,Mohammad Sohail,2025-01-17,1,21,10
+336,Nahla Khammas,2025-01-31,1,21,11
+337,Tofeeq Hasan,2025-04-26,1,21,12
+338,Riyadh Alshahin,2025-03-16,1,22,1
+339,Wasi Hyder,2025-03-26,1,22,3
+340,Baby Aiden Mahmoodi Ahmedyar,2024-06-10,1,24,1A
+341,Baby Ali Muntadher Al delfi,2023-03-21,1,24,5A
+342,Baby Ali Asghar Kablazada,2023-04-23,1,24,5B
+343,Baby Ali Hasan Zaidi,2021-09-12,1,24,6A
+344,Baby Ali Rizvi,2022-07-30,1,24,6B
+345,Baby Husain,2025-01-23,1,24,11A
+346,Baby Aleen Sakina Zaidi,2023-08-18,1,24,12A
+347,Baby Zaynah Ali,2023-12-02,1,24,12B
+348,Syeda Khalida,2023-04-13,1,25,1
+349,Reza Ali Mirza,2023-04-19,1,25,2
+350,Hasan Sabeeh,2023-04-14,1,25,3
+351,Askari Rafiq Mohammed,2021-12-21,1,25,5
+352,Muhammad Zulfiqar Ali,2021-11-08,1,25,6
+353,Mumtaz Rizvi,2023-04-25,1,25,7
+354,Tasneem Shahnawaz,2023-05-01,1,25,8
+355,Inam Fatima,2023-05-16,1,25,9
+356,Aga Amir Sultan,2023-05-15,1,25,10
+357,Nosratomolouk Eftekhar,2023-03-31,1,25,11
+358,Rayyan Ali Hyder,2020-10-04,1,26,2
+359,Roshanali Chagpar,2020-12-02,1,26,4
+360,Suad Alwan,2020-11-12,1,26,5
+361,Syed Masroor Hasan,2020-11-09,1,26,6
+362,Khairunnisa Husain,2021-02-02,1,26,7
+363,Syed Sher Ali Rizvi,2021-04-24,1,26,8
+364,Maimoona Wasti,2021-06-10,1,26,9
+365,Rami Jachi,2021-08-01,1,26,10
+366,Syed Iqbal Ali,2021-04-24,1,26,12
+367,Roshan Ali Mamdani,2021-10-08,1,27,1
+368,Mir Afzal Ali Razvi,2022-03-17,1,27,2
+369,Shehroze Adil Mufti,2022-05-05,1,27,4
+370,Zarina Currim Valji,2022-05-13,1,27,7
+371,Shabbir H Chagpar,2022-07-18,1,27,8
+372,Syeda Tahira Khanum,2022-10-04,1,27,9
+373,Syed Zahid Hussain Rizvi,2022-07-27,1,27,10
+374,Kiamars Matin,2023-02-22,1,27,11
+375,Syed Mohammad Asghar,2022-07-25,1,27,12
+376,Mohamad Abbas Hyder,2024-04-28,1,28,1
+377,Nighat Sultana Rizvi,2025-06-11,1,28,3
+378,Mohsin Ali Sajanlal,2025-08-01,1,28,4
+379,Syed Mehdi Abbas Abidi,2025-08-30,1,28,5
+380,Fatima Sultana Mehdi,2025-10-07,1,28,6
+381,Rehana Rizvi,2025-11-04,1,28,7
+382,Riaz H Rizvi,2025-11-14,1,28,8
+383,Zehra Ali Bakhtiari,2025-11-23,1,28,9
+384,Zawar Hussain,2025-11-26,1,28,10
+385,Aqeel Yusuf,2025-12-15,1,28,11
+386,Mohtashim Fatima Rizvi,2026-01-15,1,28,12
+387,Syed Bashaurat Ali Zaidi,2025-03-05,1,29,1
+388,Mirza Hasan Nawaz,2026-02-03,1,29,2
+389,Mir Shahnawaz Ali Khan,2026-02-09,1,29,3
+390,Wahid Hussein Rizvi,2026-03-14,1,29,4
+391,Aminabai Chagpar,2024-05-30,1,36,1
+392,Rukhia Bai Sajanlal,2014-05-05,1,53,4
+393,Nargis Fatima,2014-05-06,1,64,6
+394,Seyed Ahmad Razaghi Shahpur,2014-05-22,1,65,1
+395,Noshiravan Amirshokoohi,2014-06-16,1,65,2
+396,Behrooz Salasel,2023-02-11,1,65,3
+397,Zahra Shirian,2019-04-16,1,65,7
