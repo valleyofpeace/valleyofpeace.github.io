@@ -15,7 +15,7 @@ The Forms are needed in this priority order to start a Funeral Services process.
 
 2. Click [here to submit the **Initial Burial Information form**](/initialburialinfo/).
 
-3. Click [here to submit the **Death Certificate Form**](https://muslimfuneralservices.com/dc.html).
+3. Click [here to submit the **Death Certificate Form**](https://www.muslimfuneralservices.com/our-resources/).
 
 ## Funeral Arrangements
 
